@@ -24,15 +24,8 @@ level = "INFO"
 [runner]
 gatherUsageStats = false
 
-# .streamlit/config.toml
 
-[theme]
-base = "light" # Ou "dark" - este é o tema base do Streamlit
-primaryColor = "#FF4B4B" # Seus estilos CSS podem referenciar ou complementar esta cor
-# backgroundColor = ... (você está controlando isso via CSS agora)
-# secondaryBackgroundColor = ...
-# textColor = ...
-font = "sans serif"
+
 
 
 
