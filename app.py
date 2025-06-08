@@ -15,7 +15,7 @@ with st.sidebar:
 # 2. Exibe a opção selecionada
 if selected == 'Início':
     # Para o Streamlit 1.28.0 e superior:
-    st.switch_page("pages/inicio.py") 
+    #st.switch_page("pages/inicio.py") 
     # Se você tiver outras páginas, adicione condições semelhantes:
     # elif selected == 'Ensino':
     #     st.switch_page("pages/ensino.py") 
